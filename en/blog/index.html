@@ -1,7 +1,9 @@
 ---
-title: 新闻动态
+title: Blog
 description: Keep up with the latest news.
 image: https://source.unsplash.com/MqJX_8EaStM/2000x1322?a=.png
+lang: en
+layout: default_en
 ---
 
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
@@ -17,7 +19,7 @@ image: https://source.unsplash.com/MqJX_8EaStM/2000x1322?a=.png
 	<div class="text-container">
 		<p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p>
 		<ul class="blog-posts">
-			{% include list-posts.html posts=paginator.posts %}
+			{% include list-posts-en.html posts=paginator.posts %}
 		</ul>
 
 		{% if paginator.total_pages > 1 %}

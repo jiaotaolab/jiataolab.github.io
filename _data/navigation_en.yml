@@ -1,6 +1,8 @@
 - name: Blog
-  link: /blog/
+  link: /en/blog/
 - name: About
-  link: /about/
+  link: /en/about/
 - name: Contact
-  link: /contact/
+  link: /en/contact/
+- name: 中文
+  link: /
