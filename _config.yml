@@ -1,22 +1,22 @@
 # ----
 # Site
 
-title: Jia Tao Lab
+title: Dr. Tao's Lab
 url: "https://jiataolab.com"
-baseurl: "https://jiataolab.com"
+baseurl: 
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: Dr. Jia Tao's reserach laboratory
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Dr. Tao's Lab
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://github.com/jiataolab
 
 # -----
 # Build
