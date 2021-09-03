@@ -7,23 +7,60 @@ image: /images/bg-001.jpg
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
-			<h1 class="editable">Our Story</h1>
-			<p class="subtext editable">We have an extremely talented team whose sole goal is to bring you closer to the people around you.</p>
+			<h1 class="editable">关于贾涛博士</h1>
+            <div class="cta button alt"><a href="#learn-more">了解更多<span class="arrow">&#x25BC;</span></a></div>
 		</div>
 	</div>
 </section>
 
-<section class="pad">
+<section class="pad" id="learn-more">
 	<div class="container">
-		<p class="editor-link"><a href="cloudcannon:collections/_staff_members" class="btn"><strong>&#9998;</strong> Manage Staff Members</a></p>
-		<ul class="staff">
-			{% for person in site.staff_members %}
-				<li>
-					<div class="square-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
-					<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter_username }}">{{ person.name }}</a></div>
-					<div class="position">{{ person.position }}</div>
-				</li>
-			{% endfor %}
+        <p>
+        <img src="/images/about-jiatao.jpg" alt="About Jia Tao" />
+        </p>
+        <h2>学习和工作经历</h2>
+
+        <ul>
+        <li>2021.6-至今  四川大学华西药学院，课题组长PI</li>
+        <li>2019.11-2021.4  法国居里研究所（Institute Curie），高级博士后研究员, 合作导师： Sophie Bombard</li>
+        <li>2016.10-2019.11  法国国家科学院（CNRS）高级生命科学研究所（IAB），博士后研究员, 合作导师： Beatrice EYMIN， COLL Jean-Luc, Gilles Subra, Florence Ruggiero</li>
+        <li>2012.10-2016.09  法国Université Grenoble Alpes大学，博士，合作导师：COLL Jean-Luc，Gilles Subra</li>
+        </ul>
+
+        <h2>获奖情况</h2>
+        <ul>
+            <li>2020年Springer Nature 2020 第一季度high demand (top 25%) 审稿人</li>
+            <li>2017年波尔多大学和法国纳米医学年会共同颁发的青年研究员最优秀口头报告奖(排名第一)</li>
+            <li>2016年法国驻美国休斯顿科技处FADEx (法美博士生交流) 项目奖学金获得者（全法共十名获得者）</li>
+            <li>2015年欧盟纳米医学年会颁发的“Sanofi Pasteur 巴斯德奖” (唯一)</li>
+            <li>2015-法国国家健康卫生研究院（INSERM）Albert Bonniot 研究所最优秀博士生论文口头报告奖（唯一）</li>
+        </ul>
+
+        <h2>研究资助</h2>
+
+            <div class="sponsor">
+                    <div><img src="/images/scu.png" /></div>
+                    <div class="name">2021- 四川大学引进人才启动资金资助</div>
+            </div>
+            <div class="sponsor">
+                    <div><img src="/images/cnrs.png" /></div>
+                    <div class="name">2020-2022 CNRS prematurity program funding (2020-Sophie Bombard)</div>
+            </div>
+            <div class="sponsor">
+                    <div><img src="/images/curie.jpg" /></div>
+                    <div class="name">2019-2021 Curie Advanced Postdoctoral Fellowships</div>
+            </div>
+            <div class="sponsor">
+                    <div><img src="/images/inc.png" /></div>
+                    <div class="name">2016-2019 Institute National du Cancer (INCA-PLBio16-085) Postdoctoral Fellowships</div>
+            </div>
+            <div class="sponsor">
+                    <div><img src="/images/arc.png" /></div>
+                    <div class="name">2016-2019 Fondation ARC pour la Recherche sur le Cancer (PGA1-20160203791) Postdoctoral Fellowships</div>
+            </div>
+		</ul>
+	</div>
+</section>
 		</ul>
 	</div>
 </section>
