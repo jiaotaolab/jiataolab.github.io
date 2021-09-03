@@ -4,7 +4,7 @@ date: 2021-08-25
 description: FGF-2 promotes angiogenesis through a SRSF1/SRSF3/SRPK1-dependent axis that controls VEGFR1 splicing in endothelial cells
 categories:
   - Research
-image: /images/blog-default.jpg
+image: /images/bg-01-2500x550.jpg
 author_staff_member: Jia Tao
 lang: cn
 ---

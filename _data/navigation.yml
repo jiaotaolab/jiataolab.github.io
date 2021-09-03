@@ -1,7 +1,9 @@
-- name: 新闻动态 
-  link: /blog/
 - name: 关于导师
   link: /about/
+- name: 研究工作
+  link: /research/
+- name: 新闻动态 
+  link: /blog/
 - name: 联系我们
   link: /contact/
 - name: English

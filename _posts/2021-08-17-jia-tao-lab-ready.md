@@ -4,7 +4,7 @@ date: 2021-08-17
 description: 洁净度10万级（未评审）的细胞培养室、细胞和分子生物学实验室、生化分析暗室、学生工作室以及PI的办公室装修结束
 categories:
   - Lab News
-image: /images/blog-default.jpg
+image: /images/bg-01-2500x550.jpg
 author_staff_member: Jia Tao
 lang: cn
 ---

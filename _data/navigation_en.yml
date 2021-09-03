@@ -1,8 +1,2 @@
-- name: Blog
-  link: /en/blog/
-- name: About
-  link: /en/about/
-- name: Contact
-  link: /en/contact/
 - name: 中文
   link: /
