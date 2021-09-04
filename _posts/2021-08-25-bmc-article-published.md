@@ -1,7 +1,7 @@
 ---
 title: BioMed Central旗舰刊物BMC Biology在线我们的研究论文
 date: 2021-08-25
-description: FGF-2 promotes angiogenesis through a SRSF1/SRSF3/SRPK1-dependent axis that controls VEGFR1 splicing in endothelial cells
+description: 
 categories:
   - Research
 image: /images/bg-01-2500x550.jpg

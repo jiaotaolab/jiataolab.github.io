@@ -2,20 +2,20 @@
 # Site
 
 title: 贾涛课题组
-title_en: Dr. Tao's Lab
+title_en: Dr. Tao Jia's Research Group
 url: "https://jiataolab.com"
 baseurl: 
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Dr. Jia Tao's reserach laboratory
+description: "四川大学华西药学院，贾涛博士血管和肺部疾病分子药理学课题组"
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Dr. Tao's Lab
+  name: Dr. Tao Jia's Research Group
   links:
     - https://github.com/jiataolab
 
