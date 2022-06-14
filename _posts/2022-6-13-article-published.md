@@ -4,14 +4,17 @@ date: 2022-6-13
 description: 
 categories:
   - Research news
-image: /images/20220614.jpg
+image: /images/bg-01-2500x550.jpg
 author_staff_member: Jia Tao
 lang: cn
 ---
 
 我们是谁？
+
 我们从哪里来？
+
 我们要到哪里去？
+
 如果坚持做自己（专注独立、独特的研究），我们能走多远（解决多大的问题）？
 
 带着这些问题，我们于2022年3月在国际主流的生物化学和生物物理学期刊BBA-Molecular Cell Research的专刊“细胞信号传导中的新兴概念和非经典通路Emerging Concepts & Non-Canonical Pathways in Cellular Signaling”介绍了自己https://www.sciencedirect.com/journal/biochimica-et-biophysica-acta-bba-molecular-cell-research/special-issue/106F8BL8WNW。
